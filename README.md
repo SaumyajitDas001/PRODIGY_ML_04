@@ -1,4 +1,4 @@
-# PRODIGY_ML_03
+# PRODIGY_ML_04
 A model that identifies and interprets human gestures using machine learning and computer vision.
 The database is composed by 10 different hand-gestures (showed above) that were performed by 10 different subjects (5 men and 5 women). 
 1.The different classes were:
